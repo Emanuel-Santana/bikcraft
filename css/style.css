@@ -1,5 +1,8 @@
-@import url(tecnologia.css);
-@import url(bicicletas.css);
-@import url(introducao.css);
-@import url(header.css);
+@import url(/css/home/tecnologia.css);
+@import url(/css/bicicletas/bicicletas-lista.css);
+@import url(/css/home/introducao.css);
+@import url(/css/home/header.css);
+@import url(/css/utilidades/componentes.css);
+@import url(/css/utilidades/tipografia.css);
+@import url(/css/utilidades/cores.css);
 @import url(global.css);

@@ -1,5 +1,5 @@
 .header-bg {
-  background: var(--fundo-preto);
+  background: var(--cor-12);
 }
 
 .header {
@@ -12,17 +12,18 @@
   justify-content: space-between;
   text-align: center;
   align-items: center;
+  padding-bottom: 10px;
+  padding-top: 25px;
 }
 
 .header-menu {
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
-  font-size: 1.2rem;
 }
 
 .header-menu a {
-  color: #ffffff;
+  color: var(--cor-0);
   padding: 15px 0px;
   display: inline-block;
   position: relative;
@@ -33,7 +34,7 @@
   display: block;
   height: 2px;
   width: 0%;
-  background: #ffffff;
+  background: var(--cor-0);
   margin-top: 2px;
   position: absolute;
 }
@@ -53,25 +54,20 @@
   }
 
   .header-menu a {
-    background: #111111;
+    background: var(--cor-11);
     border-radius: 4px;
     padding: 15px 15px;
   }
 
   .header-menu a:hover {
-    background: #2e2e2e;
+    background: var(--cor-10);
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 605px) {
   .header {
     flex-direction: column;
-  }
-}
-
-@media (max-width: 435px) {
-  .header-menu a {
-    font-size: 1rem;
+    padding-top: 40px;
   }
 }
 
