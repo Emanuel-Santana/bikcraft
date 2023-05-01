@@ -16,6 +16,12 @@ ul {
   padding: 0px;
 }
 
+dt,
+dd {
+  margin: 0px;
+  padding: 0px;
+}
+
 a {
   text-decoration: none;
   color: #ffffff;

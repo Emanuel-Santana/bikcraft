@@ -54,16 +54,6 @@
   content: "”";
 }
 
-.depoimento-conteudo::before {
-  content: "";
-  width: 60px;
-  height: 60px;
-  background: url("/img/dec/bottom-right-p.svg") no-repeat;
-  position: absolute;
-  right: 30px;
-  top: 400px;
-}
-
 @media (max-width: 800px) {
   .depoimento {
     grid-template-columns: 1fr;

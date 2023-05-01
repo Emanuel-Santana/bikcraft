@@ -1,0 +1,28 @@
+.termos-bg {
+  background: var(--cor-11);
+}
+
+.termos-introducao {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 60px 20px 60px 20px;
+}
+
+.termos-lista {
+  margin-bottom: 40px;
+  max-width: 660px;
+}
+
+.termos-lista h2,
+.termos-lista p {
+  margin-bottom: 20px;
+}
+
+.termos-container ul:first-child {
+  margin-top: 40px;
+}
+
+.termos {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
