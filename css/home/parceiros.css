@@ -22,11 +22,11 @@
   margin: auto;
 }
 
-
 .parceiros-lista li {
   display: flex;
   padding: 32px;
   border-left: 2px solid var(--cor-2);
+  margin: 0px;
 }
 
 .parceiros-lista li:first-child,

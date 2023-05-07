@@ -19,6 +19,7 @@
   display: grid;
   grid-template-columns: 4fr 6fr;
   border-radius: 5px;
+  box-shadow: 0 1px 2px rgb(0, 0, 0, 0.1);
 }
 
 .contato-lista {
@@ -79,6 +80,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
+  position: relative;
 }
 
 .form button {
