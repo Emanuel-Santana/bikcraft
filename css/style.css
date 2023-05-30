@@ -1,30 +1,30 @@
 /* Orçamento */
-@import url(./orcamento/orcamento.css);
+@import url(/bikcraft/css/orcamento/orcamento.css);
 
 /* Contatos */
-@import url(./contato/contato.css);
-@import url(./contato/lojas.css);
+@import url(/bikcraft/css/contato/contato.css);
+@import url(/bikcraft/css/contato/lojas.css);
 
 /* Seguros */
-@import url(./seguros/seguros.css);
+@import url(/bikcraft/css/seguros/seguros.css);
 
 /* Bicicletas */
-@import url(./bicicletas/bicicletas.css);
-@import url(./bicicletas/nimbus.css);
+@import url(/bikcraft/css/bicicletas/bicicletas.css);
+@import url(/bikcraft/css/bicicletas/nimbus.css);
 
 /* termos */
-@import url(./termos/termos.css);
+@import url(/bikcraft/css/termos/termos.css);
 
 /* pagina incial e utilidades */
 @import url(footer.css);
-@import url(./seguros/seguros-home.css);
-@import url(./home/depoimento.css);
-@import url(./home/parceiros.css);
-@import url(./home/tecnologia.css);
-@import url(./bicicletas/bicicletas-lista.css);
-@import url(./home/introducao.css);
-@import url(./home/header.css);
-@import url(./utilidades/componentes.css);
-@import url(./utilidades/tipografia.css);
-@import url(./utilidades/cores.css);
+@import url(/bikcraft/css/seguros/seguros-home.css);
+@import url(/bikcraft/css/home/depoimento.css);
+@import url(/bikcraft/css/home/parceiros.css);
+@import url(/bikcraft/css/home/tecnologia.css);
+@import url(/bikcraft/css/bicicletas/bicicletas-lista.css);
+@import url(/bikcraft/css/home/introducao.css);
+@import url(/bikcraft/css/home/header.css);
+@import url(/bikcraft/css/utilidades/componentes.css);
+@import url(/bikcraft/css/utilidades/tipografia.css);
+@import url(/bikcraft/css/utilidades/cores.css);
 @import url(global.css);
