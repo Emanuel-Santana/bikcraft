@@ -1,8 +1,8 @@
 .depoimento {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background: var(--cor-p1) url(/img/dec/bottom-right.svg) no-repeat bottom 30px
-    right 30px;
+  background: var(--cor-p1) url(../../img/dec/bottom-right.svg) no-repeat bottom
+    30px right 30px;
   position: relative;
 }
 

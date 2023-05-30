@@ -37,7 +37,7 @@
   display: block;
   width: 100px;
   height: 100px;
-  background: url("/img/dec/bottom-left.svg") no-repeat;
+  background: url("../../img/dec/bottom-left.svg") no-repeat;
   position: absolute;
   left: -323px;
   top: 560px;

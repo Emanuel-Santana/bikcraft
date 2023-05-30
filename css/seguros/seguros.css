@@ -65,7 +65,7 @@
   width: 15px;
   height: 6px;
   display: block;
-  background: url(/img/icones/seta-abrir.svg) no-repeat;
+  background: url(../../img/icones/seta-abrir.svg) no-repeat;
   align-self: center;
   transition: transform 0.3s;
 }
