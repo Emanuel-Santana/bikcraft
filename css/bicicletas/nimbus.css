@@ -64,14 +64,14 @@
   content: "";
   width: 15px;
   height: 15px;
-  background: url(/img/icones/entrega.svg) no-repeat;
+  background: url(../../img/icones/entrega.svg) no-repeat;
 }
 
 .span2::before {
   content: "";
   width: 15px;
   height: 15px;
-  background: url(/img/icones/estoque.svg);
+  background: url(../../img/icones/estoque.svg);
 }
 
 /* tabela informações */
